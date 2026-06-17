@@ -1,27 +1,106 @@
-## Hi there! 👋
+# Hi there! 👋 I'm Brian
 
-I’m Brian, a **Computer Science and Systems Engineering** student at **San Carlos University of Guatemala**. I’m passionate about learning and growing in the world of programming and software development.
+🎓 **Computer Science and Systems Engineering Student** at Universidad de San Carlos de Guatemala (USAC).
 
-### 🚀 What I Do
+I'm passionate about software engineering, backend development, Linux systems, and cloud-native technologies. I enjoy building efficient software solutions, exploring low-level programming concepts, and continuously learning new technologies.
 
-- **Software Development:** I love working with various languages and tools to build efficient applications and solutions.
-- **Programming Projects:** I’m involved in diverse projects across different domains, including web development, systems programming, and containerization.
-- **Continuous Learning:** I’m always exploring new technologies and methodologies to enhance my skills and knowledge.
+---
 
-### 🔧 Experience
+## 🚀 About Me
 
-I have experience with the following languages and frameworks:
+- 💻 Passionate about software development and problem solving.
+- 🐧 Interested in Linux systems and kernel-level programming.
+- ⚙️ Exploring containerization and cloud-native technologies.
+- 🌐 Building web applications and backend services.
+- 🤖 Interested in process automation and software optimization.
+- 📚 Constantly learning and improving my technical skills.
 
-- **Programming Languages:** Python, JavaScript, Java, Go
-- **Frameworks:** React, Node.js
+---
 
-I have completed various projects using these technologies, which you can check out in my repositories.
+## 🛠️ Technologies & Tools
 
-### 🌟 What I’m Working On
+### Programming Languages
 
-Currently, I’m learning about container management and kernel module development.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-If you want to know more about my projects, feel free to reach out!
+### Frontend Development
 
-### 📫 How to reach me:
-- [Email](mailto:ajuchan007@gmail.com)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Operating Systems
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚧 Currently Learning
+
+- Linux Kernel Development
+- Docker & Container Technologies
+- Distributed Systems
+- Cloud Computing Fundamentals
+- System Programming
+- Software Architecture
+
+---
+
+## 🚀 Areas of Interest
+
+- Backend Development
+- Systems Programming
+- Linux Administration
+- Containerization & DevOps
+- Automation
+- Cloud Technologies
+
+---
+
+## 📊 GitHub Stats
+
+![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrnA122&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrnA122&layout=compact&theme=github_dark)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BrnA122&theme=github-dark)
+
+---
+
+## 🏆 Goals for 2026
+
+- Contribute to open-source projects.
+- Improve my Linux and kernel development skills.
+- Build production-ready backend applications.
+- Learn cloud-native technologies and DevOps practices.
+- Develop more projects in Go and Python.
+
+---
+
+## 📫 Contact
+
+📧 **Email:** <ajuchan007@gmail.com>
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
